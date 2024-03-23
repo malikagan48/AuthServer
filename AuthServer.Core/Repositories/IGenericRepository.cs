@@ -22,4 +22,5 @@ namespace AuthServer.Core.Repositories
         TEntity Update(TEntity entity);
     }
     
+
 }
